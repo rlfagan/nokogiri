@@ -30,6 +30,7 @@ Some guiding principles Nokogiri tries to follow:
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/xj2pqwvlxwuwgr06/branch/main?svg=true)](https://ci.appveyor.com/project/flavorjones/nokogiri/branch/main)
 [![Code Climate](https://codeclimate.com/github/sparklemotion/nokogiri.svg)](https://codeclimate.com/github/sparklemotion/nokogiri)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/59c67b0e8976027a45ad/test_coverage)](https://codeclimate.com/github/sparklemotion/nokogiri/test_coverage)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fnokogiri.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Fnokogiri?ref=badge_shield)
 
 [![Gem Version](https://badge.fury.io/rb/nokogiri.svg)](https://rubygems.org/gems/nokogiri)
 [![SemVer compatibility](https://api.dependabot.com/badges/compatibility_score?dependency-name=nokogiri&package-manager=bundler&version-scheme=semver)](https://dependabot.com/compatibility-score/?dependency-name=nokogiri&package-manager=bundler)
@@ -260,6 +261,9 @@ This project is licensed under the terms of the MIT license.
 
 See this license at [`LICENSE.md`](LICENSE.md).
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fnokogiri.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Fnokogiri?ref=badge_large)
 
 ### Dependencies
 
